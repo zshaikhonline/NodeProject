@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='8'>
+    <iu id='gitaddon.feature.feature.group' name='Nodeclipse Git Addon' version='1.0.0.20140303-0606'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.jjs.feature.feature.group' name='Nodeclipse Java 8 Nashorn JJS' version='1.0.2.201509250223'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.mongodb.feature.feature.group' name='Nodeclipse MongoDB Shell Integration' version='1.0.2.201509250223'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.enide.nodejs.feature.feature.group' name='Nodeclipse Node.js .Features Set' version='1.0.2.201509250223'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.phantomjs.feature.feature.group' name='Nodeclipse PhantomJS' version='1.0.2.201509250223'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.pluginslist.feature.feature.group' name='Nodeclipse Plugins List' version='1.0.2.201509250223'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.vertx.feature.feature.group' name='Nodeclipse Vert.x' version='1.0.2.201509250223'>
+      <repositories size='1'>
+        <repository location='https://nodeclipse.github.io/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wildwebdeveloper.feature.feature.group' name='Wild Web Developer - Web edition in Eclipse IDE (Experimental)' version='0.4.1.201907221412'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/wildwebdeveloper/releases/latest'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
